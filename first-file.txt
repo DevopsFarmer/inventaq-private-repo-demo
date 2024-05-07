@@ -1,1 +1,6 @@
 hi this is a file for private repo demo
+pushing with ssh url
+
+create key pairs by running ssh-keygen -o -t rsa command
+then copy id_rsa.pub content and put into github->settings->ssh keys-> create new
+save
